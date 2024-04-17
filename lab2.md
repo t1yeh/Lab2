@@ -1,7 +1,7 @@
 ## Part 1
 ## Part 2
 1. ![image](lab2privatekey.png) <br>
-2. ![image](lab2pt2ieng6public.png) <br> THIS
+2. ![image](lab2pt2ieng6public.png) <br> 
 3. ![image](lab2nologon.png) <br>
 
 ## Part 3
