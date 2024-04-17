@@ -1,5 +1,7 @@
 ## Part 1
-1. ![image]
+1. ![image](cse15llab2.png)
+2. ![image](lab215l(1).png)
+3. ![image](lab215l.png)
 ## Part 2
 1. ![image](lab2privatekey.png) <br>
 2. ![image](lab2publickey.png) <br> 
