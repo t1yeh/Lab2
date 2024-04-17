@@ -2,11 +2,14 @@
 1. ![image](cse15llab2.png) <br>
 The method used in my Handler class(that is used in the main function of ChatServer) is called `handleRequest()`. <br>
 The relevant arguments used in this function is a Url class named `url`, which is further analyzed through the URL class' `getQuery()` method in determining which keywords to search for and add User's input into an arrayList `str`(Which is also a relevant field) that is used to return a String `out` containing all of the contents within the arraylist. <br>
-The values of these fields changes depending on the user input. for example, in this scenario is 
-3. ![image](lab215l(1).png) <br>
+The values of these fields changes depending on the user input. for example, in this scenario the message to be added is "100percentcertified" and the user is called "bobby" the URL will differ depending on the input passed in the html code. `/add-message?s=100percentcertified&user=bobby`. The arraylist wills tore different values as a result, which will also cause the final `out` return to be different.
+2. ![image](lab215l(1).png) <br>
 The method used in my class is called `handleRequest()`<br>
 Similarly, the function takes in a Url class object called url to analyze relevant arguments. It employs the getQuery() method of the URL class to identify keywords for searching, adding user input to an arrayList str, and finally returning a String `out` containing all elements from the arrayList via a for loop.
-5. ![image](lab215l.png) <br>
+The values of these fields changes depending on the html. In this scenario the message to be added is s="yuh" and the user is called user"bobby"<br>
+the URL will differ depending on the input passed in the html code. `/add-message?s=yuh&user=bobby`. The resulting arraylist `str`, as well as the string output, `out` will differ from this input also. 
+3. ![image](lab215l.png) <br>
+
 ## Part 2
 1. ![image](lab2privatekey.png) <br>
 2. ![image](lab2publickey.png) <br> 
