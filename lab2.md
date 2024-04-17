@@ -1,8 +1,9 @@
 ## Part 1
 1. ![image](cse15llab2.png) <br>
-The method used in my Handler class(that is used in the main function of ChatServer) is called handleRequest, which takes in a Url class named url. 
+The method used in my Handler class(that is used in the main function of ChatServer) is called handleRequest. the relevant arugments used in this function is a Url class named url, which is <br>
+The relevant p
 2. ![image](lab215l(1).png) <br>
-The methods in my class is called handleRequest, which takes in a Url class named url. 
+The methods used in my class is called handleRequest, which takes in a Url class named url. 
 3. ![image](lab215l.png) <br>
 ## Part 2
 1. ![image](lab2privatekey.png) <br>
